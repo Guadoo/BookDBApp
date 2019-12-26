@@ -13,6 +13,8 @@
 		2C4CA05023B47CE200686949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C4CA04F23B47CE200686949 /* Assets.xcassets */; };
 		2C4CA05323B47CE200686949 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C4CA05223B47CE200686949 /* Preview Assets.xcassets */; };
 		2C4CA05623B47CE200686949 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C4CA05423B47CE200686949 /* LaunchScreen.storyboard */; };
+		2C4CA05E23B47CFE00686949 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4CA05D23B47CFE00686949 /* Data.swift */; };
+		2C4CA06023B4841300686949 /* books.json in Resources */ = {isa = PBXBuildFile; fileRef = 2C4CA05F23B4841300686949 /* books.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2C4CA05223B47CE200686949 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2C4CA05523B47CE200686949 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C4CA05723B47CE200686949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C4CA05D23B47CFE00686949 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		2C4CA05F23B4841300686949 /* books.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = books.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				2C4CA04F23B47CE200686949 /* Assets.xcassets */,
 				2C4CA05423B47CE200686949 /* LaunchScreen.storyboard */,
 				2C4CA05723B47CE200686949 /* Info.plist */,
+				2C4CA05D23B47CFE00686949 /* Data.swift */,
+				2C4CA05F23B4841300686949 /* books.json */,
 				2C4CA05123B47CE200686949 /* Preview Content */,
 			);
 			path = BookDBApp;
@@ -133,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C4CA06023B4841300686949 /* books.json in Resources */,
 				2C4CA05623B47CE200686949 /* LaunchScreen.storyboard in Resources */,
 				2C4CA05323B47CE200686949 /* Preview Assets.xcassets in Resources */,
 				2C4CA05023B47CE200686949 /* Assets.xcassets in Resources */,
@@ -147,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C4CA04A23B47CDF00686949 /* AppDelegate.swift in Sources */,
+				2C4CA05E23B47CFE00686949 /* Data.swift in Sources */,
 				2C4CA04C23B47CDF00686949 /* SceneDelegate.swift in Sources */,
 				2C4CA04E23B47CDF00686949 /* ContentView.swift in Sources */,
 			);

@@ -1,0 +1,38 @@
+[
+    {
+        "id":9780131103627
+        "name":"C Programming Language, 2nd Edition"
+        "imageName":"9780131103627"
+        "category":"IT"
+    },
+    {
+        "id":9780262035613
+        "name":"Deep Learning (Adaptive Computation and Machine Learning series)"
+        "imageName":"9780262035613"
+        "category":"IT"
+    },
+    {
+        "id":9780735619678
+        "name":"Code Complete: A Practical Handbook of Software Construction, Second Edition"
+        "imageName":"9780735619678"
+        "category":"IT"
+    },
+    {
+        "id":9781476708706
+        "name":"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution"
+        "imageName":"9781476708706"
+        "category":"History"
+    },
+    {
+        "id":9780812986204
+        "name":"Stilwell and the American Experience in China: 1911-1945"
+        "imageName":"9780812986204"
+        "category":"History"
+    },
+    {
+        "id":9787802253162
+        "name":"Non-nationalization of the currency"
+        "imageName":"9787802253162"
+        "category":"Economics"
+    },
+]
